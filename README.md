@@ -1,2 +1,2 @@
-# react-start
-Forkable start for React sandboxing
+# react-storybook
+React storybook sandboxing
